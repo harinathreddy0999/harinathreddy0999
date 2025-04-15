@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harinath Reddy Y</h1>
+<h1 align="center">Hi 👋, I'm Harinath Reddy Yelampalle </h1>
 <h3 align="center">🚀 Passionate AI & ML Engineer | Building the Future with Gen AI, LLMs, RAG, LangChain & AI Agents 🚀</h3>
 
 <p align="center">
