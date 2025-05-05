@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harinath Reddy Yelampalle </h1>
 <h3 align="center">🚀 Passionate AI & ML Engineer | Building the Future with Gen AI, LLMs, RAG, LangChain & AI Agents 🚀</h3>
+![image](https://github.com/user-attachments/assets/28d66563-e025-4df9-b8f0-28f84393c83f)
+
 
 <p align="center">
   <a href="https://github.com/harinathreddy0999">
