@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Harinath Reddy Yelampalle 👋</h1>
 
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/56d66f39-181a-4c85-85ba-964198b8f64c)" alt="Harinath Reddy Yelampalle" width="200" style="border-radius: 50%;"/> </p>
+  <img src=![Image](https://github.com/user-attachments/assets/56d66f39-181a-4c85-85ba-964198b8f64c) alt="Harinath Reddy Yelampalle" width="200" style="border-radius: 50%;"/> </p>
 
 <h3 align="center">🚀 Results-Driven AI/ML Engineer & Data Scientist | Specializing in Healthcare AI, GenAI, LLMs & MLOps 🚀</h3>
 
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I am an AI/ML Specialist and Data Scientist with **7+ years of experience** designing, developing, and deploying impactful AI solutions. My core passion lies at the intersection of **Artificial Intelligence** and **Healthcare**, where I focus on leveraging **Predictive Analytics**, **Natural Language Processing (NLP)**, and **Generative AI (GenAI)** to enhance patient outcomes, improve operational efficiency, and promote health equity.
+I am an AI/ML Specialist and Data Scientist with **6 years of experience** designing, developing, and deploying impactful AI solutions. My core passion lies at the intersection of **Artificial Intelligence** and **Healthcare**, where I focus on leveraging **Predictive Analytics**, **Natural Language Processing (NLP)**, and **Generative AI (GenAI)** to enhance patient outcomes, improve operational efficiency, and promote health equity.
 
 * 🎓 Currently pursuing a **Master of Science in Business Analytics** at **Lewis University**.
 * 💡 Expertise in the end-to-end ML lifecycle, from data exploration and feature engineering to model development (using Python, Scikit-learn, TensorFlow, PyTorch) and robust deployment using **MLOps** practices on **Microsoft Azure**.
@@ -156,7 +156,7 @@ Here are a few selected projects. *(Please check my pinned repositories below fo
     <td width="50%" valign="top">
       <h3 align="center">🍽️ AI Personalised Meal Planner</h3>
       <p align="center">
-        <a href="https://github.com/harinathreddy0999/AI-Powered-Personalized-Meal-Planner" target="_blank"> <img src="![Image](https://github.com/user-attachments/assets/c7e7ec66-e35c-40fb-8a84-5de8be3e644f)" alt="AI Meal Planner" width="200"/> </a>
+        <a href="https://github.com/harinathreddy0999/AI-Powered-Personalized-Meal-Planner" target="_blank"> <img src=![Image](https://github.com/user-attachments/assets/c7e7ec66-e35c-40fb-8a84-5de8be3e644f) alt="AI Meal Planner" width="200"/> </a>
       </p>
       <p align="center">
         Utilizes AI (potentially LLMs) to generate customized weekly meal plans tailored to individual dietary preferences, nutritional goals, and potentially available ingredients.
@@ -168,7 +168,7 @@ Here are a few selected projects. *(Please check my pinned repositories below fo
     <td width="50%" valign="top">
       <h3 align="center">💡 LumiNIC-Q</h3>
       <p align="center">
-        <a href="YOUR_PROJECT_REPO_LINK_HERE_4" target="_blank"> <img src="![Image](https://github.com/user-attachments/assets/f71def83-2c2f-40ca-8f2a-dd66b0d9d8b2)" alt="LumiNIC-Q Project" width="200"/> </a>
+        <a href="YOUR_PROJECT_REPO_LINK_HERE_4" target="_blank"> <img src=![Image](https://github.com/user-attachments/assets/f71def83-2c2f-40ca-8f2a-dd66b0d9d8b2) alt="LumiNIC-Q Project" width="200"/> </a>
       </p>
       <p align="center">
         *(Add a brief description of the LumiNIC-Q project here - what does it do?)*
